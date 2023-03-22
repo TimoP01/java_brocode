@@ -15,6 +15,7 @@ public class Main {
 		System.out.println("friends:" +friends);
 		friends--;
 		System.out.println("friends:" +friends);
+		System.out.println("git test laptop");
 
 	}
 
