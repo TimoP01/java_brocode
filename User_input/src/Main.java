@@ -18,6 +18,8 @@ public class Main {
 		System.out.println("Enter a float!");
 		float new_float = scanner.nextFloat();
 		System.out.println("Entered float: "+new_float);
+		
+		scanner.close();
 
 	}
 
